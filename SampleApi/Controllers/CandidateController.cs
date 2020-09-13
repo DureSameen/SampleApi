@@ -46,6 +46,7 @@ namespace SampleApi.Controllers
             candidateById.Email = candidate.Email;
             candidateById.FirstName = candidate.FirstName;
             candidateById.LastName = candidate.LastName;
+            candidateById.CandidateId = candidate.CandidateId;
 
 
         }
