@@ -10,7 +10,8 @@ using Microsoft.Extensions.Logging;
 namespace SampleApi
 {
     public class Program
-    {
+    { 
+        // Changed by dure sameen
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
