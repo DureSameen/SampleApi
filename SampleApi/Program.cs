@@ -23,5 +23,6 @@ namespace SampleApi
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        //Change by dotnetpearl
     }
 }
